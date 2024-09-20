@@ -8,42 +8,42 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuo's Homepage"
+title                    : "Dingyi's Homepage"
 title_separator          : "-"
-name                     : &name "Shuo Yu"
-description              : &description "Ph.D. candidate in Agricultural and Resource Economics"
-URL                      : "https://shuoy528.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/shuoyu" # the subpath of your site, e.g. "/blog"
-repository               : "shuoy528/shuoyu"
+name                     : &name "Dingyi Li"
+description              : &description "Ph.D. candidate in Applied Economics"
+URL                      : "https://DingyiLi93.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/dingyi" # the subpath of your site, e.g. "/blog"
+repository               : "DingyiLi93/dingyi"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ShuoYu.png"
-  name             : "Shuo Yu"
+  avatar           : "dingyi_li_small.jpg"
+  name             : "Dingyi Li"
   pronouns         : # example: "she/her"  
-  bio              : "I am a Ph.D. candidate in Agricultural and Resource Economics at the University of California, Berkeley. My research interests focus on Agricultural Economics, Environmental Economics, and Empirical Industrial Organization."
-  location         : "Berkeley, CA, USA"
-  employer         : "University of California, Berkeley"
+  bio              : "I am a Ph.D. candidate in Applied Economics and Management at Cornell University. My research interests focus on Econometrics, Machine Learning, and Industrial Organization."
+  location         : "Ithaca, NY, USA"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "shuoy@berkeley.edu" 
+  email            : "dl922@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=vC9ztwUAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Shuo-Yu-13"
+  pubmed           : # URL
+  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "shuoy528"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "shuo-yu-a64143249"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
