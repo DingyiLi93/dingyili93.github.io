@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Dingyi Li"
 description              : &description "Ph.D. candidate in Applied Economics"
 URL                      : "https://DingyiLi93.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/dingyi" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "DingyiLi93/dingyi"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
