@@ -105,6 +105,7 @@ This paper analyzes the management strategies employed by Michigan highbush blue
     .abstract-content {
         display: none;
         margin-bottom: 1.5rem; /* Ensure space after abstract content */
-        font-size: 1rem;
+        font-size: 1rem; 
+        text-align: justify; /* Justify text alignment */ 
     }
 </style>
