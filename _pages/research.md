@@ -15,7 +15,7 @@ Finite mixtures of multinomial logit models can be used to capture consumer choi
 
 ## Working Papers
 
-**[On the Testability of the Anchor-Words Assumption in Topic Models](https://dingyili93.github.io/files/Testing_for_Anchor_Words.pdf)** \[_Draft upon request_\]
+**[On the Testability of the Anchor-Words Assumption in Topic Models](https://dingyili93.github.io/files/Testing_for_Anchor_Words.pdf)** 
 with [Simon Freyaldenhoven](https://simonfreyaldenhoven.github.io/), [Shikun Ke](https://sites.google.com/site/fannan2316/), and [Pepe Montiel Olea](https://www.sagarsxn.com/) 
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent2', this)">▶ Abstract</button>
@@ -23,6 +23,11 @@ with [Simon Freyaldenhoven](https://simonfreyaldenhoven.github.io/), [Shikun Ke]
 Topic models are a simple and popular tool for the statistical analysis of textual data. Their identification and estimation is typically enabled by assuming the existence of \emph{anchor words}; that is, words that are exclusive to specific topics. In this paper we show that the existence of anchor words is statistically testable: There exists a hypothesis test with correct size that has nontrivial power. This means that the anchor-words assumption cannot be viewed simply as a convenient normalization. Central to our results is a simple characterization of when a column-stochastic matrix with known nonnegative rank admits a \emph{separable} factorization. We test for the existence of anchor words in two different data sets derived from monetary policy discussions in the Federal Reserve  and reject the null hypothesis that anchor words exist in one of them.
 </div>
 
+**Systemic Risk, FOMC Statements, and Monetary Policy Shocks: A New Topic Model to Associate Text with Metadata** \[_Draft upon request_\]
+with [Shawn Mankad](https://mankad-research.github.io/) 
+
+**Pollution Avoidance and Willingness-to-Pay: Evidence from Travel Mode Choice in Beijing** \[_Draft upon request_\]
+with [Shanjun Li](https://shanjunli6.github.io/) and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/)
 
 ## Work in Progress
 
