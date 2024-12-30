@@ -1,11 +1,7 @@
 ---
-title: "Research"
+title: "Talks and Presentations"
 layout: single
 permalink: /pre/
----
-
-## Talks and Presentations
-
 ---
 
 ### 2024
