@@ -26,8 +26,18 @@ Topic models are a simple and popular tool for the statistical analysis of textu
 **Systemic Risk, FOMC Statements, and Monetary Policy Shocks: A New Topic Model to Associate Text with Metadata** \[_Draft upon request_\]
 with [Shawn Mankad](https://mankad-research.github.io/) 
 
+<button class="abstract-button" onclick="toggleAbstract('abstractContent3', this)">▶ Abstract</button>
+<div id="abstractContent3" class="abstract-content" style="display: none;">
+In this research paper, we investigate the regulations guiding monetary policy communications through the development of a novel machine learning method called the Cluster Sentence Structural Topic Model (CSSTM). Our approach incorporates covariates in the data generation process and accounts for the correlation of sentences within each document by utilizing the equilibrium of sentences’ topics. In the estimation process, we sort the equilibrium in the M step. Our method outperforms the Latent Dirichlet Allocation (LDA) and the Structural Topic Model (STM) by increasing the held-out likelihood by 20 percent and 10 percent. Using our method, we analyze FOMC statements and observe that the Fed places more emphasis on inflation expectations as opposed to current rates. According to our results, FOMC statements rely more on production instead of consumption. More importantly, we find that monetary policy commu-nication started to consider systemic risk shortly after the 2007 financial crisis. By our method, we are able to decompose monetary policy shocks. The new measure has large and significant effects on systemic risk.
+</div>
+
 **Pollution Avoidance and Willingness-to-Pay: Evidence from Travel Mode Choice in Beijing** \[_Draft upon request_\]
 with [Shanjun Li](https://shanjunli6.github.io/) and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/)
+
+<button class="abstract-button" onclick="toggleAbstract('abstractContent4', this)">▶ Abstract</button>
+<div id="abstractContent4" class="abstract-content" style="display: none;">
+We estimate the short-term willingness-to-pay (WTP) to avoid air pollution by developing a model to capture the trade-offs between avoidance behavior and its costs. In particular, we use fine-scale travel survey data in Beijing to model the trade-offs between indoor and outdoor travel modes for compulsory work trips during highly polluted hours. Our model indicates that the short-term WTP, which we estimate to be 0.00223 dollars per hour to avoid 1 µg/m3 of ambient fine particles (PM2.5), forms the lower bound for the long-term WTP, which is around 11.536 dollars per year to avoid 1 µg/m3 PM2.5. Our estimation strategy uses a machine learning IV method in a high-dimensional econometrics setting. We find that longer potential exposure to air pollution prevents people from walking and cycling. People older than 55 years old, who are more vulnerable to pollution and thus more likely to avoid pollution, have a 28% higher WTP than the young. Likewise, richer people, who value their health more, are willing to avoid a unit of pollution with 36% more cost. Finally, we find evidence that information affects the behavioral adjustment: people start to reduce their exposure to the toxic air only after extensive media coverage of air pollution.
+</div>
 
 ## Work in Progress
 
