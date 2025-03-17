@@ -31,7 +31,7 @@ with [Shawn Mankad](https://mankad-research.github.io/)
 In this research paper, we investigate the regulations guiding monetary policy communications through the development of a novel machine learning method called the Cluster Sentence Structural Topic Model (CSSTM). Our approach incorporates covariates in the data generation process and accounts for the correlation of sentences within each document by utilizing the equilibrium of sentences’ topics. In the estimation process, we sort the equilibrium in the M step. Our method outperforms the Latent Dirichlet Allocation (LDA) and the Structural Topic Model (STM) by increasing the held-out likelihood by 20 percent and 10 percent. Using our method, we analyze FOMC statements and observe that the Fed places more emphasis on inflation expectations as opposed to current rates. According to our results, FOMC statements rely more on production instead of consumption. More importantly, we find that monetary policy commu-nication started to consider systemic risk shortly after the 2007 financial crisis. By our method, we are able to decompose monetary policy shocks. The new measure has large and significant effects on systemic risk.
 </div>
 
-**Pollution Avoidance and Willingness-to-Pay: Evidence from Travel Mode Choice in Beijing** \[_Draft upon request_\]
+**Pollution Avoidance and Willingness-to-Pay: Evidence from Travel Mode Choice in Beijing** \[_Draft Upon Request_\]
 with [Shanjun Li](https://shanjunli6.github.io/) and [C.-Y. Cynthia Lin Lawell](https://clinlawell.dyson.cornell.edu/)
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent4', this)">▶ Abstract</button>
