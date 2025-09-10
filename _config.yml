@@ -21,7 +21,7 @@ repository               : "DingyiLi93/dingyili93.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dingyi_li_small.png"
+  avatar           : "DingyiLi.webp"
   name             : "Dingyi Li"
   pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D. candidate in Applied Economics and Management at Cornell University. My research interests focus on Theoretical and Applied Econometrics."
