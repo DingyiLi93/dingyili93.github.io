@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Job Market Paper
 
-**[Doubly Robust Causal Inference with Confounders Missing Not at Random](https://dingyili93.github.io/files/Pure_products_for_consideration_set__write_up.pdf)**
+**[Doubly Robust Causal Inference with Confounders Missing Not at Random]**
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent1', this)">▶ Abstract</button>
 <div id="abstractContent1" class="abstract-content" style="display: none;">
