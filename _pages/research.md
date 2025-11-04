@@ -6,34 +6,11 @@ permalink: /research/
 
 ## Job Market Paper
 
-**[Doubly Robust Causal Inference with Confounders Missing Not at Random]**
+**[Doubly Robust Causal Inference with Confounders Missing Not at Random](https://dingyili93.github.io/files/doubly_robust_mnar.pdf)**
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent1', this)">▶ Abstract</button>
 <div id="abstractContent1" class="abstract-content" style="display: none;">
-Causal inference in observational studies relies on the conditional independence of
-outcomes and treatment given confounding covariates. When confounders are miss-
-ing not at random (MNAR), this condition fails, and causal parameters are no longer
-identified. We consider scenarios where missingness of the confounder depend on
-the confounder but is conditionally independent of the outcome given treatment and
-confounders (OIM). We propose an efficient and doubly robust estimator of the av-
-erage treatment effect (ATE); it is based on well-known sample averages of observed
-outcomes and estimated conditional mean outcomes but with novel propensities and
-weights that adjust for confounder missingness. To estimate these weights we invert
-integral equations that relate observed distributions to: (i) the joint propensity score,
-defined as the probability of receiving treatment and having all confounders observed,
-and (ii) the distribution of confounders conditional on missingness, that are unob-
-served due to missingness. The inversion relies on OIM and a completeness of the
-full-data distribution in the outcome. To extend the analysis to prevalent empirical
-settings with insufficient variation in the outcome, e.g., binary outcome or multiple
-continuous confounders with missing values, we propose a low-rank assumption on
-the missingness mechanism that regularizes an ill-posed integral equation and leads
-to efficiency gains when the inversion is well-posed. Furthermore, we derive the semi-
-parametric efficiency bound for the ATE in OIM setting, show that our estimator
-achieves the bound, and enjoys novel and standard robustness properties of double
-machine learning estimators. We benchmark our estimator with simulations and
-three empirical applications: the impact of the Job Corps program on employment,
-the effect of smoking on blood lead levels, and the influence of education on general
-health satisfaction.
+When confounders are missing not at random, the conditional independence required for causal inference does not hold, undermining identification of causal parameters. We consider scenarios where confounder missingness depends on themselves but is independent of the outcome conditional on the treatment and confounders. We propose an efficient and doubly robust estimator of the average treatment effect (ATE) that adjusts for confounder missingness through novel propensity scores and conditional average treatment effects. The adjustment relies on two integral equations, one of which is new. Solving integral equations relies on the completeness of the full-data distribution in the outcome. We propose a low-rank assumption on the missingness mechanism, extending the analysis to empirical settings with limited outcome variation, such as binary outcomes. Our estimator is doubly robust, remaining consistent if either integral equation holds, and rate doubly robust, achieving $\sqrt{n}$--consistency when both propensity scores and conditional average treatment effects converge at the fourth-root rate. We then derive the semiparametric efficiency bound for the ATE under the outcome-independent missingness condition and show that our estimator achieves the bound. We evaluate our estimator with simulations and three empirical applications: the impact of the Job Corps program on employment, the effect of smoking on blood lead levels, and the influence of education on general health satisfaction.
 </div>
 
 
