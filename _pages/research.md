@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Job Market Paper
 
-**[Doubly Robust Causal Inference with Confounders Missing Not at Random](https://dingyili93.github.io/files/doubly_robust_mnar.pdf)**
+**[Efficient and Doubly Robust Estimation of the Average Treatment Effect with Confounders Missing Not at Random](https://dingyili93.github.io/files/doubly_robust_mnar.pdf)**
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent1', this)">▶ Abstract</button>
 <div id="abstractContent1" class="abstract-content" style="display: none;">
