@@ -24,7 +24,7 @@ Finite mixtures of multinomial logit models can be used to capture consumer choi
 </div>
 
 **[On the Testability of the Anchor-Words Assumption in Topic Models](https://dingyili93.github.io/files/Testing_for_Anchor_Words.pdf)** 
-\[_Revision at Quantitative Economics_\] with [Simon Freyaldenhoven](https://simonfreyaldenhoven.github.io/), [Shikun Ke](https://www.shikunke.com/), and [José Luis Montiel Olea](https://joseluismontielolea.com/)
+\[_Conditionally Accepted at Quantitative Economics_\] with [Simon Freyaldenhoven](https://simonfreyaldenhoven.github.io/), [Shikun Ke](https://www.shikunke.com/), and [José Luis Montiel Olea](https://joseluismontielolea.com/)
 
 <button class="abstract-button" onclick="toggleAbstract('abstractContent3', this)">▶ Abstract</button>
 <div id="abstractContent3" class="abstract-content" style="display: none;">
