@@ -40,7 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.sidebar__inner .author__content {
-  max-width: 240px;   /* make sidebar narrower */
-  margin-left: 4rem;
+.sidebar .author__content {
+  padding-left: 50px;
 }
