@@ -40,6 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* keep left alignment with some spacing from the left edge */
 .sidebar__inner .author__content {
-  text-align: center !important;
+  text-align: left !important;   /* keep left text */
+  margin-left: 2rem;           /* adjust this */
 }
