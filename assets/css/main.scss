@@ -40,9 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* left align with spacing from edge */
-.sidebar__inner .author__content,
-.sidebar__inner .author__content > * {
-  text-align: left !important;
-  padding-left: 4rem !important; /* adjust to taste */
+.sidebar__inner .author__content {
+  max-width: 240px;   /* make sidebar narrower */
+  margin-left: 4rem;
 }
